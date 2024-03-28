@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NameFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/activity_name_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#303F9F"
+        android:gravity="center"
+        android:textColor="#FF0000"
+        android:textSize="40sp"
+        android:textStyle="bold|italic" />
+
+</FrameLayout>
